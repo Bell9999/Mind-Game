@@ -1,2 +1,2 @@
 # Mind-Game
-Small game in C with data structures 
+Small game in C with data structures (dequeue)
